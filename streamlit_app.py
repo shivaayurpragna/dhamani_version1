@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Define rows and columns for the first table
-rows_dhatu = ["Rasa", "Rakta", "Mamsa", "Asthma", "Shukra"]
+rows_dhatu = ["Rasa", "Rakta", "Mamsa", "Medas", "Asthi", "Majja", "Shukra", "Artava"]
 columns = ["Vata", "Pitta", "Kapha"]
 
 # Define rows for the second table
